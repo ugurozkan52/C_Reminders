@@ -13,3 +13,6 @@ C dilinde çeşitli notlar.
 #### C_Lab_8 === Array Kullanimiştir.
 #### C_Lab_9 === Pointer kullanimi ve pointer fonksiyonlri kullanılmıştır.
 #### C_Lab_10 === Pointerlar 2 ve pointer çeşitli fonksiyonlar yazılmıştır.
+#### C_Lab_11 === Enum ile tanimlamalar yazılmıştır.
+#### C_Lab_12 === Dizideki elemanların parçalanmak için fonk() yazılmıştır.
+#### GPS_Data_Parser === GPS verisinin parçalaması için test yazılmıştır.
