@@ -16,3 +16,4 @@ C dilinde çeşitli notlar.
 #### C_Lab_11 === Enum ile tanimlamalar yazılmıştır.
 #### C_Lab_12 === Dizideki elemanların parçalanmak için fonk() yazılmıştır.
 #### GPS_Data_Parser === GPS verisinin parçalaması için test yazılmıştır.
+#### C_Lab_13 === Struct konusu islenmistir.
