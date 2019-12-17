@@ -4,7 +4,7 @@
  *
  * Created on 27 Agustos 2019 Persembe
  *
- * Konu : Sizeof(tür) operatörü ve tip karakterleri kullanimi
+ * Konu : Sizeof(tÃ¼r) operatÃ¶rÃ¼ ve tip karakterleri kullanimi
  *
  */
 
@@ -23,7 +23,7 @@ main() {
 	char 	metin_ch [9] = "UGUROZKAN";
 	int 	int_dizi[10];
 	
-	/* sizeof(tür) operatör türü yazılan değişkenin hafizadaki kapladığı yeri gösterir */
+	/* sizeof(tÃ¼r) operatÃ¶r tÃ¼rÃ¼ yazÃ½lan deÃ°iÃ¾kenin hafizadaki kapladÃ½Ã°Ã½ yeri gÃ¶sterir */
 	
 	printf("char            %d\n", sizeof(char));
     printf("unsigned char   %d\n", sizeof(unsigned char));
@@ -51,7 +51,7 @@ main() {
     printf("///////////////////////////////////////////\n");
     printf("\n");
 	
-	/* Tip karakterleri kullanilan degiskenin türünü belirtir. % isareti ile baslatilir */
+	/* Tip karakterleri kullanilan degiskenin tÃ¼rÃ¼nÃ¼ belirtir. % isareti ile baslatilir */
 	
 	printf("Value_int = %d\nValue_float = %.5f\n",deger_int,deger_float);
 	printf("Karakterin int ==> desimal	%d\n",deger_int);
@@ -65,4 +65,5 @@ main() {
 
 	return 0;
 }
+
     
